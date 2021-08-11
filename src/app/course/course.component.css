@@ -1,0 +1,18 @@
+.course
+{
+    background-color: #eff6ff;
+}
+.box
+{
+    background-color: #ffffff;
+    padding:10px 20px;
+}
+
+@media screen and (max-widht:600px)
+{
+    .course
+    {
+        background-color: #eff6ff;
+        padding:50px 10px;
+    }
+}
